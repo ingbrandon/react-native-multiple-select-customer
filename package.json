@@ -1,16 +1,16 @@
 {
-  "_from": "react-native-multiple-select",
-  "_id": "react-native-multiple-select@0.4.1",
+  "_from": "react-native-multiple-select-customer",
+  "_id": "react-native-multiple-select-customer",
   "_inBundle": false,
   "_integrity": "sha512-Vvq6vs4H32NY/a1YTWwNRhR58PBY1KQ162hG1TvT62/+H7pCwiiGFn2UVint1UhoaK1ORt3JsGPvNWHzGi21Vg==",
-  "_location": "/react-native-multiple-select",
+  "_location": "/react-native-multiple-select-customer",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "react-native-multiple-select",
-    "name": "react-native-multiple-select",
-    "escapedName": "react-native-multiple-select",
+    "raw": "react-native-multiple-select-customer",
+    "name": "react-native-multiple-select-customer",
+    "escapedName": "react-native-multiple-select-customer",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -21,13 +21,13 @@
   ],
   "_resolved": "https://registry.npmjs.org/react-native-multiple-select/-/react-native-multiple-select-0.4.1.tgz",
   "_shasum": "a79ad2a2668df3cb35b8f9ba4cbd04561e1f41ec",
-  "_spec": "react-native-multiple-select",
+  "_spec": "react-native-multiple-select-customer",
   "_where": "F:\\React native\\appservi",
   "author": {
     "name": "Mustapha Babatunde Oluwaleke"
   },
   "bugs": {
-    "url": "https://github.com/toystars/react-native-multiple-select/issues"
+    "url": "https://github.com/toystars/react-native-multiple-select-customer/issues"
   },
   "bundleDependencies": false,
   "dependencies": {},
@@ -50,7 +50,7 @@
     "react-test-renderer": "^15.4.2",
     "remote-redux-devtools": "^0.5.7"
   },
-  "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
+  "homepage": "https://github.com/toystars/react-native-multiple-select-customer#readme",
   "jest": {
     "preset": "jest-react-native"
   },
@@ -68,7 +68,7 @@
     ]
   },
   "main": "index.js",
-  "name": "react-native-multiple-select",
+  "name": "react-native-multiple-select-customer",
   "peerDependencies": {
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
@@ -78,7 +78,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toystars/react-native-multiple-select.git"
+    "url": "git+https://github.com/toystars/react-native-multiple-select-customer.git"
   },
   "scripts": {
     "lint": "eslint lib/",
